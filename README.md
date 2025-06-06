@@ -26,4 +26,4 @@ To enhance my efficiency and clarify certain syntax-related doubts, I occasional
 
 In conclusion, this file handling task significantly improved my practical knowledge of Java’s file input/output operations. It also enhanced my ability to work with external files effectively in a structured, error-free manner. Additionally, this project familiarized me with modern Java development practices using BlueJ and various open-source resources. The task has served as a valuable foundational exercise for developing more complex file-based applications in future academic and professional projects.
 
-OUTPUT:
+OUTPUT: <img width="1470" alt="Image" src="https://github.com/user-attachments/assets/378677dd-c67b-409f-a764-137764a48002" />
